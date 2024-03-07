@@ -1,0 +1,10 @@
+.vscode/*
+
+# raw data .csv files
+data/*
+
+# visualizations
+**.png
+
+*.pickle
+*.pkl
