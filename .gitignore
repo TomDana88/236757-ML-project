@@ -1,5 +1,7 @@
 .vscode/*
 
-# files too large
-data_dict.pickle
-data/heart_rate_daily.csv
+# raw data .csv files
+data/*
+
+*.pickle
+*.pkl
