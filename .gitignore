@@ -1,8 +1,5 @@
 .vscode/*
 
-# visualizations
-**.png
-
 # files too large
 data_dict.pickle
 data/heart_rate_daily.csv
