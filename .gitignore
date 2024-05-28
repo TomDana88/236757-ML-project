@@ -1,7 +1,11 @@
-.vscode/*
-
-# raw data .csv files
+.vscode
+__pycache__
+# data files - too big for git
 data/*
-
 *.pickle
 *.pkl
+
+# notes
+notes.txt
+
+garmin_API.pdf
